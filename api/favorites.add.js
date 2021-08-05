@@ -7,6 +7,6 @@ module.exports = (library, options) => {
     library.favorites.push(item)
     newItems.push(item)
   }
-  lirary.indexArray(newItems)
+  library.indexArray(newItems)
   library.writeSupplementalData()
 }

@@ -31,7 +31,6 @@ If you are using [Library](https://github.com/openaudioserver/library) with Node
 
 [Top of page](#documentation)
 
-
 ## License
 
 MIT

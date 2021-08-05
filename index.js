@@ -7,7 +7,7 @@ module.exports = {
       get: require('./api/favorites.get.js'),
       list: require('./api/favorites.list.js'),
       remove: require('./api/favorites.remove.js.js'),
-      rename: require('./api/favorites.update.js'),
+      rename: require('./api/favorites.rename.js'),
       reorder: require('./api/favorites.reorder.js')
     }
     return library
