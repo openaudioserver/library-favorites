@@ -1,6 +1,6 @@
-# Library Favorites
+# Library: Favorites
 
-A module for [Library](https://github.com/openaudioserver/library) that adds a list of your favorite items from anywhere in your library.
+A module for [Library](https://github.com/openaudioserver/library) that allows you to maintain a list of your favorite objects.
 
 ### Documentation
 
