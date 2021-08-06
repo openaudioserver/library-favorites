@@ -2,7 +2,7 @@
 module.exports = {
   load: library => {
     library.favorites = library.favorites || []
-    library.api.favorites = {
+    library.favorites = {
       create: require('./api/favorites.add.js'),
       get: require('./api/favorites.get.js'),
       list: require('./api/favorites.list.js'),
